@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\invoices\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\invoices\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\invoices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\invoices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\invoices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\invoices\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\invoices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\invoices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\model\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\model\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|c:\\users\\mia.shohag\\source\\repos\\invoiceapp\\invoiceapp\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8182E2-A151-41A6-812A-FC7224368B4D}|InvoiceApp\\InvoiceApp.csproj|solutionrelative:invoiceapp\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml.cs",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:24:37.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:24:31.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Create.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Create.cshtml",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Create.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:39:46.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Edit.cshtml.cs",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Edit.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:23:09.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Edit.cshtml",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:23:06.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Create.cshtml.cs",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Create.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:00:00.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Model\\InvoiceDto.cs",
+              "RelativeDocumentMoniker": "InvoiceApp\\Model\\InvoiceDto.cs",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Model\\InvoiceDto.cs",
+              "RelativeToolTip": "InvoiceApp\\Model\\InvoiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:48:35.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T07:33:08.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Index.cshtml.cs",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T05:31:27.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Index.cshtml",
+              "RelativeDocumentMoniker": "InvoiceApp\\Pages\\Invoices\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Pages\\Invoices\\Index.cshtml",
+              "RelativeToolTip": "InvoiceApp\\Pages\\Invoices\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T05:30:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Model\\Invoice.cs",
+              "RelativeDocumentMoniker": "InvoiceApp\\Model\\Invoice.cs",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Model\\Invoice.cs",
+              "RelativeToolTip": "InvoiceApp\\Model\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:38:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InvoiceApp\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mia.shohag\\source\\repos\\InvoiceApp\\InvoiceApp\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InvoiceApp\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:14:07.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
