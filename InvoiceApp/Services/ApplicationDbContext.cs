@@ -12,5 +12,7 @@ namespace InvoiceApp.Services
 
         public DbSet<Invoice> Invoices { get; set; } = null!;
 
+        public DbSet<Customer> Customers { get; set; } = null!;
+
     }
 }

@@ -1,0 +1,37 @@
+﻿@page
+@model InvoiceApp.Pages.Customers.IndexModel
+@{
+}
+
+<h2 class="text-center md-3">Customer</h2>
+<a class="btn btn-primary" asp-page="/Customers/Create">New Customer</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Customer Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Address</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody class="table-group-divider">
+        @foreach (var customer in Model.customerList)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.Email</td>
+                <td>@customer.Phone</td>
+                <td>@customer.Address</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-page="/Customers/Edit" asp-route-id="@customer.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-page="/Customers/Delete" asp-route-id="@customer.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -169,3 +169,4 @@ C:\Users\mia.shohag\source\repos\InvoiceApp\InvoiceApp\obj\Debug\net9.0\ref\Invo
 C:\Users\mia.shohag\source\repos\InvoiceApp\InvoiceApp\bin\Debug\net9.0\MySqlConnector.dll
 C:\Users\mia.shohag\source\repos\InvoiceApp\InvoiceApp\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\mia.shohag\source\repos\InvoiceApp\InvoiceApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\mia.shohag\source\repos\InvoiceApp\InvoiceApp\obj\Debug\net9.0\InvoiceApp.sourcelink.json
