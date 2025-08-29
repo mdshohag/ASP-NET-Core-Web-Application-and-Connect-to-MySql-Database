@@ -1,0 +1,82 @@
+﻿@page
+@model InvoiceApp.Pages.Customers.EditModel
+@{
+}
+
+
+<h2 class="text-center mb-3">Edit Customer</h2>
+
+
+@if (Model.successMessage.Length > 0 )
+{
+
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@Model.successMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+}
+<form method="post">
+
+    <div class="row g-2 mb-3">
+        <div class="col-lg-8">
+
+            <div class="card h-100">
+                <div class="card-header">
+                    Customer Details
+                </div>
+                <div class="card-body">
+
+
+                        <div class="row mb-3">
+                        <label class="col-sm-4 col-form-label">Customer Id</label>
+                            <div class="col-sm-8">
+                                <input class="form-control-plaintext" readonly value="@Model.Customer.Id" />
+                            </div>
+                        </div>
+
+                    <div class="row mb-3">
+                        <label class="col-sm-4 col-form-label">Customer Name</label>
+                        <div class="col-sm-8">
+                                <input class="form-control" asp-for="Customer.Name" />
+                            <span asp-validation-for="Customer.Name" class="text-bg-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label class="col-sm-4 col-form-label">Email</label>
+                        <div class="col-sm-8">
+                            <input class="form-control" asp-for="Customer.Email" />
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label class="col-sm-4 col-form-label">Phone</label>
+                        <div class="col-sm-8">
+                            <input class="form-control" asp-for="Customer.Phone" />
+                            <span asp-validation-for="Customer.Phone" class="text-bg-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <label class="col-sm-4 col-form-label">Address</label>
+                        <div class="col-sm-8">
+                            <textarea class="form-control" asp-for="Customer.Address"></textarea>
+                            <span asp-validation-for="Customer.Address" class="text-bg-danger"></span>
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <a class="btn btn-outline-primary" asp-page="/Customers/Index" role="button">Cancel</a>
+
+</form>

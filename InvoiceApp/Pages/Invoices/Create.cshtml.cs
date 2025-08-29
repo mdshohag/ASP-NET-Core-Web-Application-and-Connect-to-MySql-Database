@@ -1,7 +1,9 @@
-using InvoiceApp.Model;
+﻿using InvoiceApp.Model;
 using InvoiceApp.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace InvoiceApp.Pages.Invoices
 {
@@ -17,8 +19,17 @@ namespace InvoiceApp.Pages.Invoices
             this.context = context;
         }
 
+        public List<SelectListItem> CustomerList { get; set; } = new();
+
         public void OnGet()
         {
+            CustomerList = context.Customers
+           .Select(c => new SelectListItem
+           {
+               Value = c.Name,   // ClientName
+               Text = c.Name     // dropdown 
+           }).ToList();
+        
         }
 
         public IActionResult OnPost() 

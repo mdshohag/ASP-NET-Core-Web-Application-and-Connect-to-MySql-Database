@@ -2,6 +2,7 @@ using InvoiceApp.Model;
 using InvoiceApp.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.VisualBasic;
 using System.Net;
 using System.Numerics;
@@ -15,6 +16,9 @@ namespace InvoiceApp.Pages.Invoices
         public InvoiceDto InvoiceDto { get; set; } = new InvoiceDto();
 
         public Invoice Invoice { get; set; } = new();
+
+        public List<SelectListItem> CustomerList { get; set; } = new();
+
 
         private readonly ApplicationDbContext context;
 
@@ -47,6 +51,15 @@ namespace InvoiceApp.Pages.Invoices
             InvoiceDto.Phone = invoice.Phone;
             InvoiceDto.Address = invoice.Address;
 
+            
+            CustomerList = context.Customers
+                .Select(c => new SelectListItem
+                {
+                    Value = c.Name,   
+                    Text = c.Name
+                }).ToList();
+
+
             return Page();
         }
 
@@ -65,6 +78,14 @@ namespace InvoiceApp.Pages.Invoices
 
            if (!ModelState.IsValid)
             {
+                // reload customer list on postback
+                CustomerList = context.Customers
+                    .Select(c => new SelectListItem
+                    {
+                        Value = c.Name,
+                        Text = c.Name
+                    }).ToList();
+
                 return Page();
             }
             invoice.Number = InvoiceDto.Number;

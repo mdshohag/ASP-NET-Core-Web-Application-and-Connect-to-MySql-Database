@@ -68,7 +68,11 @@
                     <div class="row mb-3">
                         <label class="col-sm-4 col-form-label">Client</label>
                         <div class="col-sm-8">
-                            <input class="form-control" asp-for="InvoiceDto.ClientName" />
+
+                            <select class="form-select" asp-for="InvoiceDto.ClientName" asp-items="Model.CustomerList">
+                                <option value="">Select Customer</option>
+                            </select>
+                            @* <input class="form-control" asp-for="InvoiceDto.ClientName" /> *@
                             <span asp-validation-for="InvoiceDto.ClientName" class="text-bg-danger"></span>
                         </div>
                     </div>
